@@ -1,3 +1,8 @@
 Шаблон программиста https://myresume.ru/examples/programmist/</br>
-WIX шаблон сайта резюме https://ru.wix.com/website/templates/html/portfolio-cv/resumes-cvs</br>
+Figma шаблон сайта резюме https://www.figma.com/community/tag/resume/files</br>
 Нет опыта работы https://guides.hexlet.io/how-to-create-a-resume/#когда-программисту-начинать-составлять-резюме</br>
+Задание:</br>
+- [] Выписать профессиональные наваки, которыми должен обладать IT-специалист(программист, тестировщик, разработчик игр, графический дизайнер)</br>
+- [] Найти стажировки</br>
+- [] Выбрать дизайн сайта резюме</br>
+- [] Выполнить задание со стаживки</br>

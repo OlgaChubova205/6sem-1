@@ -54,3 +54,4 @@ WEB разработчик:
 - [x] Установка и настройка новых серверов БД MS SQL.
 
 https://tanki.su/ru/news/notifications/vacancy-search/</br>
+http://volunteers.lesta.ru/

@@ -59,3 +59,6 @@ WEB разработчик:
 
 https://tanki.su/ru/news/notifications/vacancy-search/</br>
 http://volunteers.lesta.ru/
+
+
+![image](https://user-images.githubusercontent.com/97594290/217448708-42a2db7f-bdd0-4ab8-a37e-68bd20a85413.png)
